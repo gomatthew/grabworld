@@ -30,7 +30,8 @@ DOWNLOAD_DELAY = 17
 # The download delay setting will honor only one of:
 # CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # CONCURRENT_REQUESTS_PER_IP = 16
-
+# gittoken='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'
+# git remote set-url origin https://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@github.com/gomatthew/grabworld.git
 # Disable cookies (enabled by default)
 # COOKIES_ENABLED = False
 
